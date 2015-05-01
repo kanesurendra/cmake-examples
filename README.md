@@ -1,8 +1,8 @@
 # cmake-examples
 Basic CMake Examples
 
-Example Sources :
-1. http://people.sc.fsu.edu/~efb06/TechSeries/CMakeLecture.pdf
+Example Sources : <br>
+1. http://people.sc.fsu.edu/~efb06/TechSeries/CMakeLecture.pdf <br>
 2. http://ilcsoft.desy.de/portal/e279/e346/infoboxContent560/CMake_Tutorial.pdf
 
 Syntax Sources:
